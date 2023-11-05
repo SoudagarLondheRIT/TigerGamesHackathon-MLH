@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TigerGamesHackathon-MLH/static/css/main.f567a9bb.css",
+    "main.js": "/TigerGamesHackathon-MLH/static/js/main.23a6423f.js",
+    "index.html": "/TigerGamesHackathon-MLH/index.html",
+    "main.f567a9bb.css.map": "/TigerGamesHackathon-MLH/static/css/main.f567a9bb.css.map",
+    "main.23a6423f.js.map": "/TigerGamesHackathon-MLH/static/js/main.23a6423f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f567a9bb.css",
+    "static/js/main.23a6423f.js"
+  ]
+}
